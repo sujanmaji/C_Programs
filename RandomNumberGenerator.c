@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
     printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n");
 
     // Input data
-    printf("How many numbers do you wan ? (Value of n) : ");
+    printf("How many numbers do you want? (Value of n) : ");
     scanf("%d", &n);
 
     printf("Enter the range [a:b] : ");
