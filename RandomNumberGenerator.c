@@ -6,7 +6,7 @@ int main(int argc, char const *argv[])
 {
 
     FILE *fp;    // Creaing File pointer
-    int n, a, b; // Creating data variabe
+    int n, a, b; // Creating data variable
 
     // Title
     printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
